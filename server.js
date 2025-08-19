@@ -19,3 +19,4 @@ mongoose.connect(process.env.MONGO_URI)
 app.listen(PORT ,()=>{
     console.log(`Server is running in the PORT ${PORT}`)
 })
+// This is the server file for the project 
