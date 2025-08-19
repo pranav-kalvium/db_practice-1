@@ -19,3 +19,4 @@ const userSchema = new mongoose.Schema({
 })
 
 module.exports = mongoose.model("User",userSchema)
+// this is the user schema file for this practice project
