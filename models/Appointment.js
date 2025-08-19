@@ -23,3 +23,4 @@ const appointmentSchema= new mongoose.Schema({
 })
 
 module.exports=mongoose.model("Appointment",appointmentSchema)
+// these all are the appointment js files 
